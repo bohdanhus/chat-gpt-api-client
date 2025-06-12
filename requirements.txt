@@ -1,0 +1,5 @@
+aiogram==3.4.1
+
+python-dotenv~=1.1.0
+protobuf~=4.25.8
+openai~=1.84.0
